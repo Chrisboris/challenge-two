@@ -1,0 +1,44 @@
+html{
+    background-color:lightseagreen;
+    size: 80%;
+    font-family: Arial, Verdana, sans-serif;
+    padding: 1em;
+    font-size: 15px;
+    line-break: 5px;
+    text-align: center;
+    min-width: 320;
+    
+}
+#title{
+    font: 1em;
+    font-style: italic;
+    margin: 0%;
+}
+form{
+    text-align: center;
+    text-indent: center;
+    background-color: white;
+    margin: 20em;
+    margin-top: 0em;
+    margin-bottom: 0em;
+    padding: 0em;
+}
+label{
+    font-weight: bold;
+    text-transform: uppercase;
+    text-decoration: none;    
+}
+textarea{
+    width: 20em;
+    height: 10em;
+}
+#submit{
+    background-color: hsl(246, 88%, 27%);
+    border-radius: 4px;
+    color: white;
+    font-size: 1em;
+    height: 40px;
+    width: 96px;
+    margin: 10px;
+    border: 0px solid;
+}
